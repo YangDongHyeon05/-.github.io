@@ -1,1 +1,1 @@
-# [-.github.io](http://jekyllthemes.org/themes/simplex/)
+# [테마 출처](http://jekyllthemes.org/themes/simplex/)
